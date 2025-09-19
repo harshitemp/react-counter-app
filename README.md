@@ -1,6 +1,11 @@
 # 📘 Experiment 4: Counter App using useState Hook (CO2, CO3)
 
 ## Steps to Run
+## Screenshots
+
+Here’s a preview of the app:
+
+![App Screenshot](public/ss.png)
 
 ### 1. Create a new React project
 ```bash
